@@ -1,0 +1,29 @@
+{
+  "name": "Asri",
+  "author": "TCOTC",
+  "url": "https://github.com/TCOTC/Asri",
+  "version": "3.5.21",
+  "displayName": {
+    "default": "Asri",
+    "zh_CN": "Asri",
+    "en_US": "Asri"
+  },
+  "description": {
+    "default": "Crafting a space where visual distractions disappear and your thinking takes center stage - immersive, focused, and intuitively guided.",
+    "zh_CN": "极富现代感的主题，以隐形设计构筑沉浸空间，为你带来专注、优雅、直觉驱动的笔记体验。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": []
+  },
+  "keywords": [
+    "Asri",
+    "Hadeeth"
+  ]
+}
